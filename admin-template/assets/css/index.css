@@ -1,0 +1,28 @@
+.main-sidebar{
+    background: linear-gradient(
+        -45deg, #1391a5, #274685) !important;
+        color: #fff;
+}
+.main-sidebar a{
+    color: #fff;
+}
+.main-sidebar a:hover{
+    color: #fff;
+    background-color: yellow;
+}
+.main-sidebar li{
+    color: #fff;
+}
+.main-sidebar li:hover{
+    color: #fff;
+    background-color: yellow;
+}
+.main-sidebar .logo-name{
+    color: #fff;
+}
+
+.main-footer a{
+color: #274685;
+font-size: 16px;
+font-weight: 700;
+}
